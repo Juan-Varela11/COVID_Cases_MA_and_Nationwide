@@ -9,3 +9,7 @@ Link to download data for MA: https://www.mass.gov/info-details/archive-of-covid
 Nationwide data is extracted from the CDC data repository, which ranges from January 22nd, 2020 to June 16th, 2022.<br>
 Nationwide data: https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36/data<br>
 Cases per Age Group and Vaccination Status data: https://data.cdc.gov/Public-Health-Surveillance/Rates-of-COVID-19-Cases-or-Deaths-by-Age-Group-and/3rge-nu2a<br>
+
+![COVID19_TotalPop_Vaccinated](https://user-images.githubusercontent.com/68089938/175457801-5c3f6c4b-465a-4399-bd90-928b86dbba9c.jpg)
+
+![COVID19_TotalPop_Vaccinated_Positive](https://user-images.githubusercontent.com/68089938/175457826-51fc1812-989d-476a-b49e-d4e9516f8f83.jpg)
