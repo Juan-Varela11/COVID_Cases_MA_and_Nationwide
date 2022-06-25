@@ -12,4 +12,4 @@ Cases per Age Group and Vaccination Status data: https://data.cdc.gov/Public-Hea
 
 ![COVID19_TotalPop_Vaccinated](https://user-images.githubusercontent.com/68089938/175457801-5c3f6c4b-465a-4399-bd90-928b86dbba9c.jpg)
 ![COVID19_TotalPop_Vaccinated_Positive](https://user-images.githubusercontent.com/68089938/175457826-51fc1812-989d-476a-b49e-d4e9516f8f83.jpg)
-![COVID19_NewCases_Daily_State](https://user-images.githubusercontent.com/68089938/175458069-3a0343ee-fcfe-4455-8e02-6cbaf9c3014a.jpg)
+![COVID19_MA_newcases](https://user-images.githubusercontent.com/68089938/175752502-0e5092a3-077d-4046-85b7-c651142cab21.jpg)
