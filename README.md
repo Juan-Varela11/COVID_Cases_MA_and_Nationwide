@@ -11,3 +11,11 @@ Nationwide data: https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-C
 Cases per Age Group and Vaccination Status data: https://data.cdc.gov/Public-Health-Surveillance/Rates-of-COVID-19-Cases-or-Deaths-by-Age-Group-and/3rge-nu2a<br>
 
 ![covid19_daily_case_MA](https://user-images.githubusercontent.com/68089938/177021639-876ed55f-57c5-462c-b3d7-c64d666d3578.png)
+
+![COVID19_WeeklyCases_MA](https://user-images.githubusercontent.com/68089938/177021812-e688fd3e-a867-4193-a353-efa0acdcccec.jpg)
+
+![COVID19_TotalPop_Vaccinated](https://user-images.githubusercontent.com/68089938/177021824-0b451243-eff8-42eb-b335-d2a8a6d26673.jpg)
+
+![COVID19_TotalPop_Vaccinated_Positive](https://user-images.githubusercontent.com/68089938/177021827-4c9bc093-b207-4de0-8789-1621a857093d.jpg)
+
+![COVID19_MA_Gender](https://user-images.githubusercontent.com/68089938/177021833-19f3514d-b09f-4c42-b0cd-0df878a25ac9.jpg)
