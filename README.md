@@ -10,4 +10,4 @@ Nationwide data is extracted from the CDC data repository, which ranges from Jan
 Nationwide data: https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36/data<br>
 Cases per Age Group and Vaccination Status data: https://data.cdc.gov/Public-Health-Surveillance/Rates-of-COVID-19-Cases-or-Deaths-by-Age-Group-and/3rge-nu2a<br>
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~JuanVare98/1.embed" height="200" width="100%"></iframe>
+![covid19_daily_case_MA](https://user-images.githubusercontent.com/68089938/177021639-876ed55f-57c5-462c-b3d7-c64d666d3578.png)
