@@ -1,2 +1,2 @@
 
-[Link to new daily COVID-19 plots] (MA_covid_cases.html)
+[Link to new daily COVID-19 plots] (docs/MA_covid_cases.html)
