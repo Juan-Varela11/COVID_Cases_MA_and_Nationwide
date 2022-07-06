@@ -12,6 +12,10 @@ Cases per Age Group and Vaccination Status data: https://data.cdc.gov/Public-Hea
 
 ![covid19_daily_case_MA](https://user-images.githubusercontent.com/68089938/177021639-876ed55f-57c5-462c-b3d7-c64d666d3578.png)
 
+For interactive & updated version of plot:
+[Link to new daily COVID-19 plots] [Link to test map](https://juan-varela11.github.io/COVID_Cases_MA_and_Nationwide/MA_covid_cases.html)
+
+
 ![COVID19_WeeklyCases_MA](https://user-images.githubusercontent.com/68089938/177021812-e688fd3e-a867-4193-a353-efa0acdcccec.jpg)
 
 ![COVID19_TotalPop_Vaccinated](https://user-images.githubusercontent.com/68089938/177021824-0b451243-eff8-42eb-b335-d2a8a6d26673.jpg)
