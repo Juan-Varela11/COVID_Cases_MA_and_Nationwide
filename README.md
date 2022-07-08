@@ -7,7 +7,7 @@ Massachusetts's data was collected from August 19th, 2020 to June 17th, 2022 for
 Link to download data for MA: https://www.mass.gov/info-details/archive-of-covid-19-cases-in-massachusetts<br>
 
 Nationwide data is extracted from the CDC data repository, which ranges from January 22nd, 2020 to June 16th, 2022.<br>
-Nationwide data: https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36/data<br>
+Nationwide data: https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36<br>
 Cases per Age Group and Vaccination Status data: https://data.cdc.gov/Public-Health-Surveillance/Rates-of-COVID-19-Cases-or-Deaths-by-Age-Group-and/3rge-nu2a<br>
 
 [GitHub page](https://juan-varela11.github.io/COVID_Cases_MA_and_Nationwide)
