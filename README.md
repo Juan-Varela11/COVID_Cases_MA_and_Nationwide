@@ -10,4 +10,6 @@ Nationwide data is extracted from the CDC data repository, which ranges from Jan
 Nationwide data: https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36/data<br>
 Cases per Age Group and Vaccination Status data: https://data.cdc.gov/Public-Health-Surveillance/Rates-of-COVID-19-Cases-or-Deaths-by-Age-Group-and/3rge-nu2a<br>
 
+[Link to GitHub page](https://juan-varela11.github.io/COVID_Cases_MA_and_Nationwide)
+
 [Link to Interactive & Updated version of New Daily COVID-19 MA Cases](https://juan-varela11.github.io/COVID_Cases_MA_and_Nationwide/MA_covid_cases.html)
