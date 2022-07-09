@@ -26,14 +26,48 @@ nationwide['submission_date'] = pd.to_datetime(nationwide['submission_date'])
 # Select date specific for Massachusetts
 nationwide_MA = nationwide.loc[nationwide["state"].isin(['MA'])]
 
-# Visualize daily new cases
-
-fig = px.line(nationwide_MA, x="submission_date", y="new_case", 
+# Visualize daily new cases for MA
+fig1 = px.line(nationwide_MA, x="submission_date", y="new_case", 
              labels={
                      "submission_date": "Submission Date",
-                     "new_case": "Number of Cases"
+                     "new_case": "Number of New Cases"
                  },
              
              title='Daily New COVID-19 Cases in Massachusetts')
 
-fig.write_html("C:/Users/Juan Varela/Jupyter_Projects/Data Science and Machine Learning/COVID19/MA_covid_cases.html")
+
+
+fig1.write_html("C:/Users/Juan Varela/Jupyter_Projects/Data Science and Machine Learning/COVID19/MA_covid_cases.html")
+
+# Visualize daily new deaths for MA
+fig2 = px.line(nationwide_MA, x="submission_date", y="new_death", 
+             labels={
+                     "submission_date": "Submission Date",
+                     "new_death": "Number of New Deaths"
+                 },
+             
+             title='Daily New COVID-19 Related Deaths in Massachusetts')
+
+fig2.write_html("C:/Users/Juan Varela/Jupyter_Projects/Data Science and Machine Learning/COVID19/MA_covid_deaths.html")
+
+# Visualize total number of cases for MA
+fig3 = px.line(nationwide_MA, x="submission_date", y="tot_cases", 
+             labels={
+                     "submission_date": "Submission Date",
+                     "tot_cases": "Total Number of Cases"
+                 },
+             
+             title='Total Count of COVID-19 Cases in Massachusetts')
+
+fig3.write_html("C:/Users/Juan Varela/Jupyter_Projects/Data Science and Machine Learning/COVID19/MA_tot_covid_cases.html")
+
+# Visualize total number of deaths for MA
+fig4 = px.line(nationwide_MA, x="submission_date", y="tot_death", 
+             labels={
+                     "submission_date": "Submission Date",
+                     "tot_death": "Total Number of Deaths"
+                 },
+             
+             title='Total Count of COVID-19 Related Deaths in Massachusetts')
+
+fig4.write_html("C:/Users/Juan Varela/Jupyter_Projects/Data Science and Machine Learning/COVID19/MA_tot_covid_deaths.html")
