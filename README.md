@@ -15,6 +15,6 @@ Cases per Age Group and Vaccination Status data: https://data.cdc.gov/Public-Hea
 
 [Interactive & Updated version of Total COVID-19 Cases in Massachusetts](https://juan-varela11.github.io/COVID_Cases_MA_and_Nationwide/MA_tot_covid_cases.html)
 
-[Interactive & Updated version of New Daily COVID-19 Related Deaths in Massachusetts](https://juan-varela11.github.io/COVID_Cases_MA_and_Nationwide/MA_covid_cases.html)
+[Interactive & Updated version of New Daily COVID-19 Related Deaths in Massachusetts](https://juan-varela11.github.io/COVID_Cases_MA_and_Nationwide/MA_covid_deaths.html)
 
 [Interactive & Updated version of Total COVID-19 Related Deaths in Massachusetts](https://juan-varela11.github.io/COVID_Cases_MA_and_Nationwide/MA_tot_covid_deaths.html)
