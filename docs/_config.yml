@@ -1,5 +1,8 @@
 theme: jekyll-theme-minimal
 title: COVID-19 Case and Death Rates in Massachusetts
 description: >-
-  Learn how to create a site or blog from your GitHub repositories with GitHub
-  Pages.
+  Visualization of data taken by the Department of Public Health (DPH) of new COVID-19 cases in the state of Massachusetts as well as nationwide. 
+  Trends of COVID cases depending on vaccine product taken, gender, age group, and vaccination status are visualized.<br>
+  
+  Updated: July 8<sup th >, 2022
+  
