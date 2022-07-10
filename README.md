@@ -20,3 +20,10 @@ Cases per Age Group and Vaccination Status data: https://data.cdc.gov/Public-Hea
 [Interactive visualization of Total COVID-19 Related Deaths in Massachusetts](https://juan-varela11.github.io/COVID_Cases_MA_and_Nationwide/MA_tot_covid_deaths.html)
 
 **NOTE (07/09/2022)** - Total count of COVID-19 deaths goes from 23,751 on March 13th, 2022 down to 19,981 on March 14th, 2022 (dip can be seen in plot above). Reason for decrease in total number is unknown, reached out to Dataset owner Brian Lee.
+
+# Datasets yet to be visualized for MA:
+
+https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Sex-and-Age/9bhg-hcku
+https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-Distribution-of-Deaths/pj7m-y5uh
+https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh
+https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc
