@@ -1,8 +1,9 @@
 theme: jekyll-theme-minimal
 title: COVID-19 Case and Death Rates in Massachusetts
 description: >-
-  Visualization of data taken by the Department of Public Health (DPH) of new COVID-19 cases in the state of Massachusetts as well as nationwide. 
-  Trends of COVID cases depending on vaccine product taken, gender, age group, and vaccination status are visualized.<br>
+  Visualization of data taken by the Department of Public Health (DPH) and Centers for Disease Control and Prevention (CDC) of new COVID-19 cases in the 
+  state of Massachusetts as well as nationwide. Trends of COVID cases depending on vaccine product taken, gender, age group, and vaccination status are 
+  visualized.<br>
   <br>
   Updated: July 9<sup>th</sup>, 2022
   
