@@ -19,6 +19,9 @@ Cases per Age Group and Vaccination Status data: https://data.cdc.gov/Public-Hea
 
 [Interactive visualization of Total COVID-19 Related Deaths in Massachusetts](https://juan-varela11.github.io/COVID_Cases_MA_and_Nationwide/MA_tot_covid_deaths.html)
 
+**CDC Weekend Reporting**<br>
+From what can be observed in the above plots of new daily COVID-19 cases and deaths in Massachusetts, it appears that of late October 2021, the CDC has stopped recording new deaths and cases on the weekend and federal holidays. On those days, they instead report that there are 0 new deaths and cases on those days.<br>
+
 **NOTE (07/09/2022)** - Total count of COVID-19 deaths goes from 23,751 on March 13th, 2022 down to 19,981 on March 14th, 2022 (dip can be seen in plot above). Reason for decrease in total number is unknown, reached out to Dataset owner Brian Lee.
 
 # Datasets yet to be visualized for MA:
