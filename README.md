@@ -1,4 +1,4 @@
-# Updated: 07/13/2022 <br> 
+# Updated: 07/14/2022 <br> 
 
 Visualization and analysis of new COVID-19 cases throughout the different towns and counties in Massachusetts. Dataset includes daily and weekly new positive infections and cumulative sums since the start of the pandemic for each of the 14 Massachusetts counties. Visualization is also done for COVID-19 case count data taken for all 50 states, as well as cases by age group and vaccination status. 
 
