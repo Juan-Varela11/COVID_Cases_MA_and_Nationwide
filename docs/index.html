@@ -39,7 +39,19 @@ layout: default
       <iframe id="igraph" scrolling="no" style="border:none;" 
               seamless="seamless" src="MA_tot_covid_cases.html" height="525" width="150%"></iframe>
     
-      <img src="race_deaths_MA.png" alt="Distribution of COVID-19 deaths (%)" onclick="enlargeImg()" id="img1">
+    
+      <div class="container" style="text-align: center; margin-top: 5em;">
+        <!-- Image to be enlarged and onclick() function call-->
+          <img
+            src="race_deaths_MA.png"
+            onclick="enlargeImg()"
+            id="img1"
+          />
+            <br /><br /><br />
+         <!-- Button to reset the Image size -->
+          <button onclick="resetImg()">Reset</button>
+       </div>
+      <!-- <img src="race_deaths_MA.png" alt="Distribution of COVID-19 deaths (%)" onclick="enlargeImg()" id="img1"> -->
       
       <!-- script to set display property -->
        <script>
