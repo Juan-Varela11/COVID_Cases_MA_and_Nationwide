@@ -39,39 +39,9 @@ layout: default
       <iframe id="igraph" scrolling="no" style="border:none;" 
               seamless="seamless" src="MA_tot_covid_cases.html" height="525" width="150%"></iframe>
     
-    
-      <div class="container" style="text-align: center; margin-top: 5em;">
-        <!-- Image to be enlarged and onclick() function call-->
-          <img
-            src="race_deaths_MA.png"
-            onclick="enlargeImg()"
-            id="img1"
-          />
-            <br /><br /><br />
-         <!-- Button to reset the Image size -->
-          <button onclick="resetImg()">Reset</button>
-       </div>
-      <!-- <img src="race_deaths_MA.png" alt="Distribution of COVID-19 deaths (%)" onclick="enlargeImg()" id="img1"> -->
-      
-      <!-- script to set display property -->
-       <script>
-          // Get the img object using its Id
-          img = document.getElementById("img1");
-          // Function to increase image size
-          function enlargeImg() {
-            // Set image size to 1.5 times original
-            img.style.transform = "scale(1.5)";
-            // Animation effect
-            img.style.transition = "transform 0.25s ease";
-          }
-          // Function to reset image size
-          function resetImg() {
-            // Set image size to original
-            img.style.transform = "scale(1)";
-            img.style.transition = "transform 0.25s ease";
-          }
-        </script>
-    
+      <a href="race_deaths_MA.png" target="_blank" rel="noopener noreferrer">
+      <img src="race_deaths_MA.png" alt="Distribution of COVID-19 deaths (%)">
+      </a> 
 
       
       <p>
