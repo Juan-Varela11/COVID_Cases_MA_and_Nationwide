@@ -32,7 +32,7 @@ From what can be observed in the above plots of new daily COVID-19 cases and dea
 
 # Lowered COVID-19 death count for Massachusetts:<br>
 **NOTE (07/09/2022)** - Total count of COVID-19 deaths goes from 23,751 on March 13th, 2022 down to 19,981 on March 14th, 2022 (dip can be seen in plot above). Reason for decrease in total number is unknown, reached out to Dataset owner Brian Lee. <br>
-**RESOLVED (07/15/2022)** - Answered received from CDC via email: <br> The State of Massachusetts Department of Public Health included a press release on March 10<sup>th</sup>that explains the reduction in the reported number of deaths.<br>
+**RESOLVED (07/15/2022)** - Answered received from CDC via email: <br> The State of Massachusetts Department of Public Health included a press release on March 10<sup>th</sup> that explains the reduction in the reported number of deaths.<br>
 https://www.mass.gov/news/department-of-public-health-updates-covid-19-death-definition <br> <br>
 "CDC reports death data on three other sections of the website: U.S. Cases & Deaths, COVID Data Tracker, and NCHS Provisional Death Counts. The U.S. Cases and Deaths webpages and COVID Data Tracker get their information from the same source (Aggregate Jurisdictional Data); however, NCHS Death Counts are based on death certificates that use information reported by physicians, medical examiners, or coroners in the cause-of-death section of each certificate. Data from each of these pages are considered provisional (not complete and pending verification) and are therefore subject to change. Counts from previous weeks are continually revised as more records are received and processed. Because not all jurisdictions report counts daily, counts may increase at different intervals."<br>  
  
