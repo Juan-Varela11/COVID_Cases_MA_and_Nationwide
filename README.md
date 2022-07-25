@@ -39,6 +39,5 @@ https://www.mass.gov/news/department-of-public-health-updates-covid-19-death-def
 
 # Datasets yet to be visualized for MA:
 
-https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Sex-and-Age/9bhg-hcku <br>
 https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh <br>
 https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc <br>
