@@ -16,7 +16,7 @@ client = Socrata("data.cdc.gov", None)
 # dictionaries by sodapy.
 results1 = client.get("9mfq-cb36", limit=56000,offset=100) # US COVID-19 Cases and Deaths by State over time
 results2 = client.get("unsk-b7fc", limit=56000,offset=100) # Overall US COVID-19 Vaccine deliveries and administration data at national and jurisdiction level
-results3 = client.get("8xkx-amqh",limit=900000,offset=200) # Overall US COVID-19 Vaccine administration and vaccine equity data at county level
+#results3 = client.get("8xkx-amqh",limit=900000,offset=200) # Overall US COVID-19 Vaccine administration and vaccine equity data at county level
 results4 = client.get("pj7m-y5uh",limit = 56000,offset=100) # Provisional COVID-19 Deaths: Distribution of Deaths by Race and Hispanic Origin
 
 
@@ -31,8 +31,8 @@ cases_deaths['submission_date'] = pd.to_datetime(cases_deaths['submission_date']
 vaccine_state = pd.DataFrame.from_records(results2)
 vaccine_state = vaccine_state.sort_values(by='date')
 
-vaccine_county = pd.DataFrame.from_records(results3)
-vaccine_county = vaccine_county.sort_values(by='date')
+#vaccine_county = pd.DataFrame.from_records(results3)
+#vaccine_county = vaccine_county.sort_values(by='date')
 
 race_deaths = pd.DataFrame.from_records(results4)
 race_deaths[['non_hispanic_white','non_hispanic_black_african_american','non_hispanic_american_indian_alaska_native',
@@ -47,10 +47,10 @@ cases_deaths_MA = cases_deaths.loc[cases_deaths["state"].isin(['MA'])]
 cases_deaths_MA.to_csv('case_deaths_MA.csv')
 
 vaccine_state_MA = vaccine_state.loc[vaccine_state["location"].isin(['MA'])]
-#vaccine_state_MA.to_csv('vaccine_state_MA.csv')
+vaccine_state_MA.to_csv('vaccine_state_MA.csv')
 
-vaccine_county_MA = vaccine_county.loc[vaccine_county["recip_state"].isin(['MA'])]
-vaccine_county_MA.to_csv('vaccine_county_MA.csv')
+#vaccine_county_MA = vaccine_county.loc[vaccine_county["recip_state"].isin(['MA'])]
+#vaccine_county_MA.to_csv('vaccine_county_MA.csv')
 
 race_deaths_MA = race_deaths.loc[race_deaths["state"].isin(['Massachusetts'])]
 race_deaths_MA = race_deaths_MA.loc[race_deaths["year"].isin(['2020-2022'])]
