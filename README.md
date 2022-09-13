@@ -1,4 +1,4 @@
-# Updated: 09/12/2022 <br> 
+# Updated: 09/13/2022 <br> 
 
 ![COVID trends](Power_BI_docs/COVID_MA_trends.jpg)
 
