@@ -8,7 +8,7 @@ Massachusetts's data was collected from August 19th, 2020 to June 17th, 2022 for
 Link to download data for MA: https://www.mass.gov/info-details/archive-of-covid-19-cases-in-massachusetts<br>
 
 Nationwide data is extracted from the CDC data repository, which ranges from January 22nd, 2020 to June 16th, 2022.<br>
-Nationwide data: https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36<br>
+Nationwide data: https://data.cdc.gov/Case-Surveillance/Weekly-United-States-COVID-19-Cases-and-Deaths-by-/pwn4-m3yp<br>
 Cases per Age Group and Vaccination Status data: https://data.cdc.gov/Public-Health-Surveillance/Rates-of-COVID-19-Cases-or-Deaths-by-Age-Group-and/3rge-nu2a<br>
 Deaths per Race and EthnicityL https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-Distribution-of-Deaths/pj7m-y5uh <br>
 
@@ -36,6 +36,11 @@ From what can be observed in the above plots of new daily COVID-19 cases and dea
 https://www.mass.gov/news/department-of-public-health-updates-covid-19-death-definition <br> <br>
 "CDC reports death data on three other sections of the website: U.S. Cases & Deaths, COVID Data Tracker, and NCHS Provisional Death Counts. The U.S. Cases and Deaths webpages and COVID Data Tracker get their information from the same source (Aggregate Jurisdictional Data); however, NCHS Death Counts are based on death certificates that use information reported by physicians, medical examiners, or coroners in the cause-of-death section of each certificate. Data from each of these pages are considered provisional (not complete and pending verification) and are therefore subject to change. Counts from previous weeks are continually revised as more records are received and processed. Because not all jurisdictions report counts daily, counts may increase at different intervals."<br>  
  
+ 
+# Archived Datasets
+Beginning on October 20th, 2022, the dataset which aggregates daily count of COVID-19 cases and deathes by states - https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36 is the dataset of note which has been archived and has been used in this project up to this point.
+
+New dataset in which the CDC now aggregates **weekly** count of COVID-19 deathes and cases by states can now be found at https://data.cdc.gov/Case-Surveillance/Weekly-United-States-COVID-19-Cases-and-Deaths-by-/pwn4-m3yp.  
 
 # Datasets yet to be visualized for MA:
 
